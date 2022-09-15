@@ -16,8 +16,10 @@
   },
   "homepage": "https://github.com/zootella/simple-stack#readme",
   "devDependencies": {
-    "aws-sdk": "^2.1213.0",
-    "claudia": "^5.14.1",
+    "claudia": "^5.14.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1217.0",
     "claudia-api-builder": "^4.1.2"
   }
 }
