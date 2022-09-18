@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "simple-stack-executor",
+    "name": "simple-stack",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "etq65ec7h8",
+    "module": "app"
+  }
+}
